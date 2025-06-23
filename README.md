@@ -4,8 +4,8 @@ This is my personal portfolio website built using **HTML** and **CSS**. It showc
 
 ## 🖥️ Live Demo
 
-[View Portfolio](https://your-username.github.io/your-repo-name/)  
-*(Replace the link with your actual GitHub Pages link after deploying)*
+[Live View]([https://your-username.github.io/your-repo-name/](https://github.com/MuhammadSaadMehdi/SimplePortfilioPage))  
+
 
 ---
 

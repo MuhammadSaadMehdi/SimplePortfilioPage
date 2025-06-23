@@ -2,9 +2,7 @@
 
 This is my personal portfolio website built using **HTML** and **CSS**. It showcases my skills, a short bio, and includes a contact form along with social media links.
 
-## 🖥️ Live Demo
 
-[Live View]([https://your-username.github.io/your-repo-name/](https://github.com/MuhammadSaadMehdi/SimplePortfilioPage))  
 
 
 ---
